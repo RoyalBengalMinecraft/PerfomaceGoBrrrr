@@ -1,0 +1,88 @@
+# Royal Bengal's optimization guide for 1.18.2
+# Written by Shunno
+# Join Royal Bengal. IP: royalbengalbd.com (1.8 to 1.19)
+# Join Royal Bengal discord:  https://discord.royalbengal.com
+
+
+# Mod list for 1.18.2 to maximize FPS for legacy hardware.
+# This modpack is both for Official Minecraft Launcher and TLauncher.
+# You need to install Fabric in order to use these mods.
+# After installing Fabric for 1.18.2 unzip the file in .minecraft/mods folder.
+# If you want shader support, download 2 jar files from JarsShaderSupport.
+
+# Fabric Installer
+ Official URL: https://fabricmc.net/
+
+
+# Fabric-API
+ Official URL: https://modrinth.com/mod/fabric-api/versions
+
+# Sodium:
+ Official URL: https://modrinth.com/mod/sodium/versions
+
+# Sodium Extra
+ Oficcial URL: https://modrinth.com/mod/sodium-extra/versions
+
+# Reese's Sodium Option
+ Official URL:  https://modrinth.com/mod/reeses-sodium-options/versions
+
+# Starlight
+ Official URL: https://modrinth.com/mod/starlight/versions
+
+# Lithium
+ Official URL: https://modrinth.com/mod/lithium/versions
+
+# LazyDFU
+ Official URL: https://modrinth.com/mod/lazydfu/versions
+
+# FerriteCore
+ Official URL: https://modrinth.com/mod/ferrite-core/versions
+
+# Krypton
+ Official URL: https://modrinth.com/mod/krypton/versions
+
+# Dynamic FPS
+ Official URL: https://modrinth.com/mod/dynamic-fps/versions
+
+# LambDynamicLights
+ Official URL: https://modrinth.com/mod/lambdynamiclights/versions
+
+# BetterPingDisplay
+ Official URL: https://modrinth.com/mod/better-ping-display-fabric/versions
+
+# DashLoader
+ Official URL: https://modrinth.com/mod/dashloader/versions
+
+# Zoomify
+ Official URL: https://modrinth.com/mod/zoomify/versions
+
+# Enhanced Block Entities
+ Official URL: https://modrinth.com/mod/ebe/versions
+
+# EntityCulling
+ Official URL: https://modrinth.com/mod/entityculling/versions
+
+# FCLS
+ Official URL: https://modrinth.com/mod/forcecloseworldloadingscreen/versions
+
+# Capes
+ Official URL: https://modrinth.com/mod/capes/versions
+
+# Fabric Language Kotlin
+ Official URL: https://modrinth.com/mod/fabric-language-kotlin/versions
+
+# Ugly Scoreboard Fix
+ Official URL: https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix/files
+
+# CompleteConfig
+ Official URL: https://www.curseforge.com/minecraft/mc-mods/completeconfig/files
+
+
+Shader Support:
+
+# Indium
+ Official URL: https://modrinth.com/mod/indium/versions
+
+# Iris Shaders
+ Official URL: https://modrinth.com/mod/iris/versions
+
